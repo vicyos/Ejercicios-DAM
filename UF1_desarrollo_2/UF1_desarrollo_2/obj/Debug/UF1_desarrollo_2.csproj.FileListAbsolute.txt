@@ -1,0 +1,7 @@
+C:\Users\vferu\source\repos\UF1_desarrollo_2\UF1_desarrollo_2\bin\Debug\UF1_desarrollo_2.exe.config
+C:\Users\vferu\source\repos\UF1_desarrollo_2\UF1_desarrollo_2\bin\Debug\UF1_desarrollo_2.exe
+C:\Users\vferu\source\repos\UF1_desarrollo_2\UF1_desarrollo_2\bin\Debug\UF1_desarrollo_2.pdb
+C:\Users\vferu\source\repos\UF1_desarrollo_2\UF1_desarrollo_2\obj\Debug\UF1_desarrollo_2.csproj.CoreCompileInputs.cache
+C:\Users\vferu\source\repos\UF1_desarrollo_2\UF1_desarrollo_2\obj\Debug\UF1_desarrollo_2.exe
+C:\Users\vferu\source\repos\UF1_desarrollo_2\UF1_desarrollo_2\obj\Debug\UF1_desarrollo_2.pdb
+C:\Users\vferu\source\repos\UF1_desarrollo_2\UF1_desarrollo_2\obj\Debug\UF1_desarrollo_2.csprojAssemblyReference.cache
